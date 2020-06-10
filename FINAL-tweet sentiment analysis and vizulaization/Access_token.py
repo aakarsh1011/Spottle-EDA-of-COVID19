@@ -1,0 +1,6 @@
+# # # # Access credentials to access twitter API# # # #
+
+ACCESS_TOKEN = "2915463409-mhwf2lhjFZoSckAES3kfw1wo0qyGfMfKN2SrlqC"
+ACCESS_TOKEN_SECRET = "974o9ztr5NT5QXsZv1bQfpTFV2R6ZjBRrUOwvLCNDoB78"
+CONSUMER_KEY = "2NFg886YH70Idzrm5lHBYL5Hj"
+CONSUMER_SECRET = "t7nQ3lPP0Wv8n3SmYgLZnjutwTtOiA0iwyJrIzOfpHCZ6Z1Cf0"
